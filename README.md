@@ -22,7 +22,9 @@ This proposal outlines a project to implement a privacy-preserving document mana
 - ShareToken.sol: A Solidity smart contract for managing share tokens and voting on proposals.
 
 - BondToken.sol: A Solidity smart contract for managing bond tokens, including issuance, redemption, and transfer.
-
+  
+- AssetToken.sol, providing an overview and structure for documenting the asset token smart contract.
+  
 ### 2. Off-Chain Encryption
 
 - Implement secure off-chain storage and encryption for sensitive documents.
