@@ -69,4 +69,3 @@ This contract is released under the MIT License.
 
 ---
 
-Feel free to customize this README with additional details, documentation, and any other information relevant to your project.
