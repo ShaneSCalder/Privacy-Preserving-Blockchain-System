@@ -11,12 +11,12 @@ ShareToken is a Solidity smart contract that represents a simple share token wit
 
 - Contract Name: ShareToken
 - Inherits From: ERC20 (OpenZeppelin's ERC20 implementation)
-- Version**: Solidity ^0.8.2
+- Version: Solidity ^0.8.2
 - License: MIT
 
 ### Key Functions
 
-1. **Constructor**
+1. Constructor
 
    - Description: Initializes the contract with a name, symbol, and an initial supply of shares. The owner (deployer) receives all initial shares.
 
@@ -26,15 +26,15 @@ ShareToken is a Solidity smart contract that represents a simple share token wit
 
 3. Mint Shares
 
-   - **Description**: Allows the owner to mint additional shares. Increases the total supply of shares.
+   - Description: Allows the owner to mint additional shares. Increases the total supply of shares.
 
-4. Burn Shares**
+4. Burn Shares
 
    - Description: Allows the owner to burn (destroy) shares. Reduces the total supply of shares.
 
 5. Create Proposal
 
-   - **Description**: Enables the owner to create a new proposal with a description.
+   - Description: Enables the owner to create a new proposal with a description.
 
 6. Vote on Proposal
 
@@ -50,7 +50,7 @@ ShareToken is a Solidity smart contract that represents a simple share token wit
 
 9. Reissue Shares
 
-   - **Description**: Allows the owner to reissue shares to a specific shareholder.
+   - Description: Allows the owner to reissue shares to a specific shareholder.
 
 ### Usage
 
