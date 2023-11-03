@@ -1,7 +1,7 @@
 
 # ShareToken (Share Token Smart Contract)
 
-## Overview
+## Overview 
 
 ShareToken is a Solidity smart contract that represents a simple share token with basic functionality. It allows the creation, transfer, and management of share tokens. This README provides an overview of the contract and its key functions.
 

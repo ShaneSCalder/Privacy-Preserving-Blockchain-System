@@ -1,7 +1,7 @@
 // deploy-bond-token.js
 // Deploy Bond Token contract to local blockchain
 //const { ethers } = require("hardhat");
-const { ethers } = require("ethers");
+const { ethers } = require("ethers"); 
 
 async function main() {
     const BondToken = await ethers.getContractFactory("BondToken");
