@@ -6,6 +6,7 @@ class TextPreprocessor:
 
     def normalize(self):
         # Implement normalization logic here
+        # could use process_text(self) 
         pass
 
     def clean(self):
